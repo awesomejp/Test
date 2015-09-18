@@ -9,3 +9,9 @@ E:\SampleProgram\ExConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 E:\SampleProgram\ExConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 E:\SampleProgram\ExConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 E:\SampleProgram\ExConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Repository\Test\ExConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Repository\Test\ExConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Repository\Test\ExConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Repository\Test\ExConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Repository\Test\ExConsole\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Repository\Test\ExConsole\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

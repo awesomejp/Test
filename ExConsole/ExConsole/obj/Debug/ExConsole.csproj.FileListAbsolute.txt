@@ -12,3 +12,10 @@ E:\SampleProgram\ExConsole\ExConsole\bin\Debug\ExConsole.pdb
 E:\SampleProgram\ExConsole\ExConsole\bin\Debug\nunit.framework.dll
 E:\SampleProgram\ExConsole\ExConsole\bin\Debug\nunit.framework.xml
 E:\SampleProgram\ExConsole\ExConsole\obj\Debug\ExConsole.csprojResolveAssemblyReference.cache
+E:\Repository\Test\ExConsole\ExConsole\bin\Debug\ExConsole.exe
+E:\Repository\Test\ExConsole\ExConsole\bin\Debug\ExConsole.pdb
+E:\Repository\Test\ExConsole\ExConsole\bin\Debug\nunit.framework.dll
+E:\Repository\Test\ExConsole\ExConsole\bin\Debug\nunit.framework.xml
+E:\Repository\Test\ExConsole\ExConsole\obj\Debug\ExConsole.csprojResolveAssemblyReference.cache
+E:\Repository\Test\ExConsole\ExConsole\obj\Debug\ExConsole.exe
+E:\Repository\Test\ExConsole\ExConsole\obj\Debug\ExConsole.pdb
