@@ -1,0 +1,14 @@
+D:\SampleProgram\ExConsole\ExConsole\bin\Debug\ExConsole.exe
+D:\SampleProgram\ExConsole\ExConsole\bin\Debug\ExConsole.pdb
+D:\SampleProgram\ExConsole\ExConsole\obj\Debug\ExConsole.csprojResolveAssemblyReference.cache
+D:\SampleProgram\ExConsole\ExConsole\obj\Debug\ExConsole.exe
+D:\SampleProgram\ExConsole\ExConsole\obj\Debug\ExConsole.pdb
+D:\SampleProgram\ExConsole\ExConsole\bin\Debug\nunit.framework.dll
+D:\SampleProgram\ExConsole\ExConsole\bin\Debug\nunit.framework.xml
+E:\SampleProgram\ExConsole\ExConsole\obj\Debug\ExConsole.exe
+E:\SampleProgram\ExConsole\ExConsole\obj\Debug\ExConsole.pdb
+E:\SampleProgram\ExConsole\ExConsole\bin\Debug\ExConsole.exe
+E:\SampleProgram\ExConsole\ExConsole\bin\Debug\ExConsole.pdb
+E:\SampleProgram\ExConsole\ExConsole\bin\Debug\nunit.framework.dll
+E:\SampleProgram\ExConsole\ExConsole\bin\Debug\nunit.framework.xml
+E:\SampleProgram\ExConsole\ExConsole\obj\Debug\ExConsole.csprojResolveAssemblyReference.cache
