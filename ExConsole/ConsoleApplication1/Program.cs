@@ -12,7 +12,7 @@ namespace ConsoleApplication1
 		{
 			DerivedClass md = new DerivedClass();
 			DerivedClass md1 = new DerivedClass(1);
-			aaa
+			aaaa
 
 			//var task = DoWork();
 			//Console.WriteLine("DoWork called");
